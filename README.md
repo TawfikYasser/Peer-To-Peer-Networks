@@ -1,5 +1,5 @@
 # Peer To Peer Networks File Distribution
-This repo. includes a networks project in college, course Computer Networks.
+This repository includes a networks project in college, course Computer Networks.
 ## Project Description
  Using peer classes (i.e. each class is both a server and a client).
  Design a protocol for peer-to-peer file request. [1 mark]
