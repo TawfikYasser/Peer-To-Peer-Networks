@@ -3,7 +3,7 @@ This repository includes a networks project in college, course Computer Networks
 ## Project Description
  Using peer classes (i.e. each class is both a server and a client).
  Design a protocol for peer-to-peer file request. [1 mark]
-o Design format of request
+o Design format of request.
 o Design format of reply (must include 200 ok – 400 error)
  Number of peers and files must be dynamic (minimum 3 files and 4 peers). [1 mark]
  Each peer is directed to a folder and reads files from it.
